@@ -1,0 +1,14 @@
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\bin\Debug\net8.0\cppcharpcommsvr.exe
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\bin\Debug\net8.0\cppcharpcommsvr.deps.json
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\bin\Debug\net8.0\cppcharpcommsvr.runtimeconfig.json
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\bin\Debug\net8.0\cppcharpcommsvr.dll
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\bin\Debug\net8.0\cppcharpcommsvr.pdb
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.AssemblyInfoInputs.cache
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.AssemblyInfo.cs
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.csproj.CoreCompileInputs.cache
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.dll
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\refint\cppcharpcommsvr.dll
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.pdb
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\cppcharpcommsvr.genruntimeconfig.cache
+C:\programming\socket\cppcharpcommsvr\cppcharpcommsvr\obj\Debug\net8.0\ref\cppcharpcommsvr.dll

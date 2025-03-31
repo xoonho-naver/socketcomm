@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programming\\socket\\cppcharpcommsvrcppbase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901F03E6-4D1D-4BD7-A922-8A7A5595CEE5}|cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.vcxproj|C:\\programming\\socket\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{901F03E6-4D1D-4BD7-A922-8A7A5595CEE5}|cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.vcxproj|solutionrelative:cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cppcharpcommsvrcppbase.cpp",
+              "DocumentMoniker": "C:\\programming\\socket\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp",
+              "RelativeDocumentMoniker": "cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp",
+              "ToolTip": "C:\\programming\\socket\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp",
+              "RelativeToolTip": "cppcharpcommsvrcppbase\\cppcharpcommsvrcppbase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T08:32:44.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\bin\Debug\net8.0\cppcharpcommclientcharpbase.exe
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\bin\Debug\net8.0\cppcharpcommclientcharpbase.deps.json
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\bin\Debug\net8.0\cppcharpcommclientcharpbase.runtimeconfig.json
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\bin\Debug\net8.0\cppcharpcommclientcharpbase.dll
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\bin\Debug\net8.0\cppcharpcommclientcharpbase.pdb
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.AssemblyInfoInputs.cache
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.AssemblyInfo.cs
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.csproj.CoreCompileInputs.cache
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.dll
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\refint\cppcharpcommclientcharpbase.dll
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.pdb
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\cppcharpcommclientcharpbase.genruntimeconfig.cache
+C:\programming\socket\cppcharpcommclientcharpbase\cppcharpcommclientcharpbase\obj\Debug\net8.0\ref\cppcharpcommclientcharpbase.dll
